@@ -1,0 +1,3 @@
+import list
+
+list.func()
